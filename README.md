@@ -1,4 +1,4 @@
-# [Sudoku](https://thinhle881.github.io/Sudoku/)
+# [Sudoku](https://lmht68.github.io/sudoku/)
 
 ## Features:
 
